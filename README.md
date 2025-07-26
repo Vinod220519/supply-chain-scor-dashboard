@@ -80,6 +80,10 @@ Compare supplier & delivery performance
 
 Take informed actions to improve planning and returns management
 
+Dashboard Link:-
+https://app.powerbi.com/groups/me/reports/9e4b3727-a7ec-4786-928a-66cccf3de5e7/4d77a03305d729f3d267?experience=power-bi
+
+
 
 📥 Sample Data Disclaimer
 The data used is simulated for educational purposes and does not represent any real-world company or supply chain.
